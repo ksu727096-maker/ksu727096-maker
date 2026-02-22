@@ -1,5 +1,9 @@
 ## En pleno aprendizaje continuo 👩‍💻
 
+*Nunca es tarde para empezar de cero, créame* 😉
+
+---
+  
 ## Sobre mi
 
 Actualmente me estoy formando como Data Analyst. 
