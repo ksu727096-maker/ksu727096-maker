@@ -3,39 +3,38 @@
 *Nunca es tarde para empezar de cero, créame* 😉
 
 ---
-  
 ## Sobre mi
 
-Actualmente me estoy formando como Data Analyst. 
+Actualmente me estoy formando como **Data Analyst**. 
 
-Desde que he llegado a España (por razón de la guerra en Ucrania) estoy en un proceso de aprendizaje continuo, empezando todo de cero, incluso el idioma 😊. 
-Tengo una mentalidad analítica, estructurada y orientada a resultados. Me gustaría aprender más sobre el mundo de los datos y la tecnología, a conocer herramientas que ayuden a transformar datos en impacto real.
+Desde mi llegada a España (por razón de la guerra en Ucrania), he estado en un proceso continuo de aprendizaje y adaptación, comenzando una nueva etapa profesional y personal. Cada desafío, incluido aprender un nuevo idioma, ha reforzado mi curiosidad y mi capacidad de aprendizaje constante.
 
+Tengo una mentalidad analítica y estructurada, y mi objetivo es dominar técnicas y herramientas que transformen datos en conocimiento útil, permitiendo generar un impacto real en la toma de decisiones.
 
 ---
-## 📊 Qué estoy aprendiendo
+## 🛠️ Habilidades técnicas
+
+- Excel (me encantan las tablas dinámicas)
+- Google Sheets (profundizando a partir de conocimientos de Excel)
+
+### 🌱 Qué estoy aprendiendo
 
 - Python 
 - HTML, CSS
 - Git & GitHub
 - VS Code
 
-Utiloizo mis conocimientos de Excel profundizando en Google Sheets. 
-
-
 --- 
+## 🚀 Proyectos destacados
 
-<!--
-**ksu727096-maker/ksu727096-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Atlas - Exploración de Datos](enlace-al-repo)
+(de momento en proceso)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📫 Cómo contactarme
+
+- Email: ksu727096@gmail.com
+
+---
+### ✨ *No son los datos los que importan, sino lo que hacemos con ellos.*
