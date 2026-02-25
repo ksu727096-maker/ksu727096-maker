@@ -14,15 +14,18 @@ Tengo una mentalidad analítica y estructurada, y mi objetivo es dominar técnic
 ---
 ## 🛠️ Habilidades técnicas
 
-- Excel (me encantan las tablas dinámicas)
-- Google Sheets (profundizando a partir de conocimientos de Excel)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  me encantan las tablas dinámicas
+- ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  profundizando a partir de conocimientos de Excel
 
 ### 🌱 Qué estoy aprendiendo
 
-- Python 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) & ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 - HTML, CSS
-- Git & GitHub
-- VS Code
 
 --- 
 ## 🚀 Proyectos destacados
